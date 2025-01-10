@@ -82,6 +82,11 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
+          to:'/aboutme/muqeet',
+          label: 'About me',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
           position: 'right',
